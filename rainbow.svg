@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Rainbow in the sky</title>
+  <desc id="desc">A bright seven-color rainbow rising above green hills under a blue sky.</desc>
+  <rect width="1200" height="700" fill="#87CEEB"/>
+  <circle cx="180" cy="150" r="70" fill="#FFD166"/>
+  <path d="M80 620a520 520 0 0 1 1040 0" fill="none" stroke="#e63946" stroke-width="55"/>
+  <path d="M135 620a465 465 0 0 1 930 0" fill="none" stroke="#f77f00" stroke-width="55"/>
+  <path d="M190 620a410 410 0 0 1 820 0" fill="none" stroke="#fcbf49" stroke-width="55"/>
+  <path d="M245 620a355 355 0 0 1 710 0" fill="none" stroke="#70c93d" stroke-width="55"/>
+  <path d="M300 620a300 300 0 0 1 600 0" fill="none" stroke="#2a9d8f" stroke-width="55"/>
+  <path d="M355 620a245 245 0 0 1 490 0" fill="none" stroke="#277da1" stroke-width="55"/>
+  <path d="M410 620a190 190 0 0 1 380 0" fill="none" stroke="#6a4c93" stroke-width="55"/>
+  <path d="M0 620 Q180 530 360 620 T720 620 T1200 620 V700 H0Z" fill="#4f9d69"/>
+  <path d="M0 670 Q180 590 360 670 T720 670 T1200 670 V700 H0Z" fill="#2d6a4f"/>
+</svg>
